@@ -1,0 +1,33 @@
+
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    margin-right: 5px;
+}
+
+.title {
+    font-size: 36px;
+}
+
+textarea {
+    width: 500px;
+    height: 200px;
+}
+
+.button-style {
+    background-color: pink;
+    border-color: pink;
+}
+
+#save-text-file {
+    background-color: ivory;
+    border-color: darkolivegreen;
+}
+
+
+
+
